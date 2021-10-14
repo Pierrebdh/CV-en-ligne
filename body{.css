@@ -1,14 +1,44 @@
 body{
-    background-color:white;  
+    background-color:rgb(247, 230, 210) ;  
   }
   
   h1{
    color:black;
    text-align:left;
-  h2}text-align: 
-   ;   
+   }
+
+}
+  h5{
+      text-align: left
+  } 
+  h3{
+      text-align: left
+    }
+h3{
+    background-color:burlywood;
+}
+
   
   p{
       font-family: verdana
       font-size: 30px;
   }
+  p{
+    padding: 20px;
+    margin: 20px 10px;
+  }
+  
+  .p1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: burlywood;
+  }
+  #profil{
+      border-radius: 950px;
+  }
+  img{
+      margin: 40px;
+}      
+
+
+
